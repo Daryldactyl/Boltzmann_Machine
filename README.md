@@ -1,2 +1,2 @@
 # Unsupervised Deep Neural Networks
-This is a Boltzmann Machine Recommender system, one to show whether a user would like a movie or not and another to say what the user would rate the movies.
+These are Unsupervised Deep Neural Networks. One is a Boltzmann Machine Recommender system to predict if a user will like a movie or not. The other is a Stacked AutoEncoder that predicts what the user would rate movies, even those they have not seen yet.
